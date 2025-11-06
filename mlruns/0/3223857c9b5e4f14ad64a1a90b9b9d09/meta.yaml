@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a.prabhu/End-to-end-ML-Project-with-MLflow/mlruns/0/3223857c9b5e4f14ad64a1a90b9b9d09/artifacts
+end_time: 1762412202725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3223857c9b5e4f14ad64a1a90b9b9d09
+run_name: traveling-snipe-879
+run_uuid: 3223857c9b5e4f14ad64a1a90b9b9d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762412197830
+status: 4
+tags: []
+user_id: a.prabhu
