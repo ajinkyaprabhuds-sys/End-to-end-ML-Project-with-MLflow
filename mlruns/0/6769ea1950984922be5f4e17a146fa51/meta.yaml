@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a.prabhu/End-to-end-ML-Project-with-MLflow/mlruns/0/6769ea1950984922be5f4e17a146fa51/artifacts
+end_time: 1762409744292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6769ea1950984922be5f4e17a146fa51
+run_name: clean-sow-506
+run_uuid: 6769ea1950984922be5f4e17a146fa51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762409737783
+status: 4
+tags: []
+user_id: a.prabhu

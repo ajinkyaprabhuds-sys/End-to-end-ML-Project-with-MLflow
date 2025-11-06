@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a.prabhu/End-to-end-ML-Project-with-MLflow/mlruns/0/8d8eecb392444876b91360a73affe81a/artifacts
+end_time: 1762411044987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d8eecb392444876b91360a73affe81a
+run_name: big-gnat-96
+run_uuid: 8d8eecb392444876b91360a73affe81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762411039109
+status: 4
+tags: []
+user_id: a.prabhu
